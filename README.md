@@ -48,6 +48,21 @@ Not all exercises in Garmin Connect have the same level of detail. This script s
   - Comprehensive descriptions
   - Step-by-step instructions
 
+## Creating Workouts with Video Animation
+
+When creating a custom workout on Garmin Connect, detailed information such as video animations are not supported and will not be displayed on your watch.
+
+To work around this limitation and include exercises with video animations, we will have to modify an pre-existing workout:
+
+1. Navigate to `Workouts` > `Find a Workout` in Garmin Connect
+2. Select a pre-existing workout that's similar to what you want to create
+3. Use the `Save to My Workouts` option
+4. Select `Edit Workout` to modify the saved workout
+5. Add or replace exercises with ones that have integrated video (marked as "FOUND" in the database)
+6. Save your modified workout
+
+This method ensures that your custom workout will display proper animations on compatible Garmin devices when performing the exercises.
+
 ## Speadsheet Updates
 
 The Google Speadsheet is automatically updated on a monthly basis to ensure the information stays current with Garmin's exercise library.
