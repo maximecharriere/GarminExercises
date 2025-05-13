@@ -29,11 +29,4 @@ jobs:
           
       - name: Run update script
         run: python garmin_exercises_collector.py
-        
-      - name: Commit and push if spreadsheet ID changed
-        run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
-          git add spreadsheet_id.txt
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update spreadsheet ID"
-          git push
+
