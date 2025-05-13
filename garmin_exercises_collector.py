@@ -71,9 +71,6 @@ class GarminExercisesCollector:
         
         for category, cat_data in data['categories'].items():
             for exercise_name, exercise_data in cat_data['exercises'].items():
-                # DEBUG: Limit to 10 rows for testing
-                if len(rows) >= 10:
-                    break
                 row = {
                     'CATEGORY_GARMIN': category,
                     'NAME_GARMIN': exercise_name
@@ -198,9 +195,6 @@ class GarminExercisesCollector:
         
         for category, cat_data in yoga_data['categories'].items():
             for exercise_name, exercise_data in cat_data['exercises'].items():
-                # DEBUG: Limit to 10 rows for testing
-                if len(rows) >= 10:
-                    break
                 row = {
                     'CATEGORY_GARMIN': category,
                     'NAME_GARMIN': exercise_name
@@ -283,9 +277,6 @@ class GarminExercisesCollector:
         
         for category, cat_data in data['categories'].items():
             for exercise_name, exercise_data in cat_data['exercises'].items():
-                # DEBUG: Limit to 10 rows for testing
-                if len(rows) >= 10:
-                    break
                 row = {
                     'CATEGORY_GARMIN': category,
                     'NAME_GARMIN': exercise_name
@@ -361,9 +352,6 @@ class GarminExercisesCollector:
         
         for category, cat_data in data['categories'].items():
             for exercise_name, exercise_data in cat_data['exercises'].items():
-                # DEBUG: Limit to 10 rows for testing
-                if len(rows) >= 10:
-                    break
                 row = {
                     'CATEGORY_GARMIN': category,
                     'NAME_GARMIN': exercise_name
