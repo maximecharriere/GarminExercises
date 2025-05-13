@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Google API credentials
+credentials.json
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+*.pkl

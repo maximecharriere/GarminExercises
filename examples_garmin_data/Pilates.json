@@ -1,0 +1,2154 @@
+{
+    "categories": {
+        "CORE": {
+            "exercises": {
+                "ARM_AND_LEG_EXTENSION_ON_KNEES": {
+                    "primaryMuscles": [
+                        "LOWER_BACK",
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "GLUTES"
+                    ]
+                },
+                "BICEP_CURL_WITH_LEG_EXTENSION": {
+                    "primaryMuscles": [
+                        "LOWER_BACK",
+                        "ABS",
+                        "BICEPS"
+                    ],
+                    "secondaryMuscles": [
+                        "HIPS"
+                    ]
+                },
+                "BICEP_CURL_WITH_LEG_EXTENSION_WITH_WEIGHTS": {
+                    "primaryMuscles": [
+                        "LOWER_BACK",
+                        "ABS",
+                        "BICEPS"
+                    ],
+                    "secondaryMuscles": [
+                        "HIPS"
+                    ]
+                },
+                "BICYCLE": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "HIPS"
+                    ]
+                },
+                "CAT_COW": {
+                    "primaryMuscles": [
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "SHOULDERS",
+                        "HIPS"
+                    ]
+                },
+                "CORKSCREW": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "ADDUCTORS"
+                    ]
+                },
+                "CRISS_CROSS": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "HIPS"
+                    ]
+                },
+                "DOUBLE_LEG_STRETCH": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "HIPS"
+                    ]
+                },
+                "KNEE_FOLDS": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "HIPS"
+                    ]
+                },
+                "LOWER_LIFT": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "HIPS"
+                    ]
+                },
+                "LOWER_LIFT_WITH_WEIGHTS": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "TRICEPS",
+                        "BICEPS"
+                    ]
+                },
+                "NECK_PULL": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "PELVIC_CLOCKS": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "ROLL_OVER": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "HAMSTRINGS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "ROLL_UP": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK"
+                    ]
+                },
+                "ROLLING": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "HIPS"
+                    ]
+                },
+                "ROWING_1": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES",
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "BICEPS",
+                        "TRICEPS"
+                    ]
+                },
+                "ROWING_1_WITH_WEIGHTS": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES",
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "BICEPS",
+                        "TRICEPS"
+                    ]
+                },
+                "ROWING_2": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES",
+                        "BICEPS",
+                        "LATS",
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "TRICEPS"
+                    ]
+                },
+                "ROWING_2_WITH_WEIGHTS": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES",
+                        "BICEPS",
+                        "LATS",
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "TRICEPS"
+                    ]
+                },
+                "SCISSORS": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "HIPS",
+                        "HAMSTRINGS"
+                    ]
+                },
+                "SCISSORS_WITH_WEIGHTS": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "SHOULDERS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "HIPS",
+                        "HAMSTRINGS"
+                    ]
+                },
+                "SINGLE_LEG_CIRCLES": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES",
+                        "HIPS",
+                        "ADDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "QUADS",
+                        "HAMSTRINGS"
+                    ]
+                },
+                "SINGLE_LEG_STRETCH": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "QUADS"
+                    ]
+                },
+                "SINGLE_LEG_STRETCH_WITH_WEIGHTS": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES",
+                        "SHOULDERS",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "QUADS",
+                        "TRICEPS",
+                        "BICEPS"
+                    ]
+                },
+                "SWAN": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "LOWER_BACK",
+                        "ABDUCTORS",
+                        "ABS",
+                        "GLUTES"
+                    ],
+                    "secondaryMuscles": [
+                        "HAMSTRINGS",
+                        "CALVES"
+                    ]
+                },
+                "SWIMMING": {
+                    "primaryMuscles": [
+                        "LOWER_BACK",
+                        "GLUTES",
+                        "LATS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "QUADS",
+                        "SHOULDERS"
+                    ]
+                },
+                "TEASER": {
+                    "primaryMuscles": [
+                        "OBLIQUES",
+                        "ABS",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "ADDUCTORS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "THE_HUNDRED": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "LATS",
+                        "GLUTES",
+                        "QUADS"
+                    ]
+                },
+                "WEIGHTED_CRISS_CROSS": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "TRICEPS",
+                        "HIPS"
+                    ]
+                },
+                "WEIGHTED_DOUBLE_LEG_STRETCH": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "TRICEPS",
+                        "HIPS"
+                    ]
+                },
+                "WEIGHTED_THE_HUNDRED": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "LATS",
+                        "GLUTES",
+                        "QUADS",
+                        "TRICEPS"
+                    ]
+                }
+            }
+        },
+        "FLYE": {
+            "exercises": {
+                "ARM_ROTATIONS": {
+                    "primaryMuscles": [
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "TRAPS"
+                    ]
+                },
+                "HUG_A_TREE": {
+                    "primaryMuscles": [
+                        "CHEST",
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "TRAPS"
+                    ]
+                }
+            }
+        },
+        "HIP_RAISE": {
+            "exercises": {
+                "CLAMS": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "ABDUCTORS",
+                        "ADDUCTORS",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS"
+                    ]
+                },
+                "LEG_CIRCLES": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "HIPS",
+                        "ABDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "QUADS",
+                        "LOWER_BACK",
+                        "OBLIQUES",
+                        "GLUTES"
+                    ]
+                },
+                "LEG_LIFT": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "HIPS",
+                        "ADDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "QUADS",
+                        "HAMSTRINGS",
+                        "LOWER_BACK",
+                        "OBLIQUES"
+                    ]
+                },
+                "LEG_LIFT_IN_EXTERNAL_ROTATION": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "HIPS",
+                        "ABDUCTORS",
+                        "ADDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "OBLIQUES"
+                    ]
+                }
+            }
+        },
+        "HYPEREXTENSION": {
+            "exercises": {
+                "COBRA": {
+                    "primaryMuscles": [
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "TRICEPS",
+                        "GLUTES"
+                    ]
+                }
+            }
+        },
+        "LATERAL_RAISE": {
+            "exercises": {
+                "ARM_CIRCLES": {
+                    "primaryMuscles": [
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "TRAPS"
+                    ]
+                },
+                "SHAVING_THE_HEAD": {
+                    "primaryMuscles": [
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "CHEST",
+                        "TRICEPS",
+                        "TRAPS"
+                    ]
+                }
+            }
+        },
+        "MOVE": {
+            "exercises": {
+                "ARCH_AND_CURL": {
+                    "primaryMuscles": [
+                        "LOWER_BACK",
+                        "ABS",
+                        "CHEST"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "ARM_CIRCLES_WITH_BALL_BAND_AND_WEIGHT": {
+                    "primaryMuscles": [
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "TRAPS",
+                        "ABS"
+                    ]
+                },
+                "ARM_STRETCH": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "CHEST"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "BACK_MASSAGE": {
+                    "primaryMuscles": [
+                        "CHEST",
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "BELLY_BREATHING": {},
+                "BRIDGE_WITH_BALL": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "GLUTES"
+                    ],
+                    "secondaryMuscles": [
+                        "QUADS",
+                        "ADDUCTORS",
+                        "HAMSTRINGS"
+                    ]
+                },
+                "DIAMOND_LEG_CRUNCH": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "ADDUCTORS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "DIAMOND_LEG_LIFT": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "ADDUCTORS",
+                        "QUADS"
+                    ]
+                },
+                "EIGHT_POINT_SHOULDER_OPENER": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "CHEST"
+                    ],
+                    "secondaryMuscles": [
+                        "TRAPS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "FOOT_ROLLING": {},
+                "FOOTWORK": {
+                    "primaryMuscles": [
+                        "HAMSTRINGS",
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "QUADS",
+                        "ABDUCTORS"
+                    ]
+                },
+                "FOOTWORK_ON_DISC": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "GLUTES"
+                    ]
+                },
+                "FORWARD_FOLD": {
+                    "primaryMuscles": [
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "HIPS"
+                    ]
+                },
+                "FROG_WITH_BAND": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "ADDUCTORS",
+                        "ABDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "QUADS"
+                    ]
+                },
+                "HALF_ROLL_UP": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "SHOULDERS"
+                    ]
+                },
+                "HAMSTRING_CURL": {
+                    "primaryMuscles": [
+                        "HAMSTRINGS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK"
+                    ]
+                },
+                "HAMSTRING_STRETCH": {
+                    "primaryMuscles": [
+                        "HAMSTRINGS",
+                        "HIPS",
+                        "GLUTES",
+                        "QUADS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "HIP_STRETCH": {
+                    "primaryMuscles": [
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "HUG_A_TREE_WITH_BALL_BAND_AND_WEIGHT": {
+                    "primaryMuscles": [
+                        "CHEST",
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "TRAPS",
+                        "ABS",
+                        "LATS"
+                    ]
+                },
+                "KNEE_CIRCLES": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK"
+                    ]
+                },
+                "KNEE_FOLDS_ON_DISC": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK"
+                    ]
+                },
+                "LATERAL_FLEXION": {},
+                "LEG_STRETCH_WITH_BAND": {
+                    "primaryMuscles": [
+                        "HAMSTRINGS"
+                    ],
+                    "secondaryMuscles": [
+                        "CALVES"
+                    ]
+                },
+                "LEG_STRETCH_WITH_LEG_CIRCLES": {
+                    "primaryMuscles": [
+                        "HAMSTRINGS",
+                        "HIPS",
+                        "ADDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "OBLIQUES",
+                        "CALVES"
+                    ]
+                },
+                "LOWER_LIFT_ON_DISC": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "HIPS"
+                    ]
+                },
+                "LUNGE_SQUAT": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "HAMSTRINGS",
+                        "QUADS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "LUNGES_WITH_KNEE_LIFT": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "HAMSTRINGS",
+                        "QUADS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "MERMAID_STRETCH": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "HAMSTRINGS",
+                        "QUADS",
+                        "CHEST",
+                        "HIPS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "NEUTRAL_PELVIC_POSITION": {},
+                "PELVIC_CLOCKS_ON_DISC": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "PILATES_PLIE_SQUATS_PARALLEL_TURNED_OUT_FLAT_AND_HEELS_WITH_CHAIR": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "HAMSTRINGS",
+                        "CALVES",
+                        "QUADS",
+                        "ADDUCTORS",
+                        "ABDUCTORS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "PIRIFORMIS_STRETCH": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "ABDUCTORS",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "PLANK_KNEE_CROSSES": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "SHOULDERS",
+                        "GLUTES",
+                        "HAMSTRINGS",
+                        "QUADS"
+                    ]
+                },
+                "PLANK_KNEE_PULLS": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "SHOULDERS",
+                        "GLUTES",
+                        "HAMSTRINGS",
+                        "QUADS"
+                    ]
+                },
+                "PLANK_UP_DOWNS": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES",
+                        "LOWER_BACK",
+                        "CHEST"
+                    ],
+                    "secondaryMuscles": [
+                        "SHOULDERS",
+                        "GLUTES",
+                        "HAMSTRINGS",
+                        "QUADS"
+                    ]
+                },
+                "PRAYER_MUDRA": {
+                    "primaryMuscles": [
+                        "HIPS",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "PSOAS_LUNGE_STRETCH": {
+                    "primaryMuscles": [
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "RIBCAGE_BREATHING": {},
+                "ROLL_DOWN": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "HAMSTRINGS",
+                        "SHOULDERS",
+                        "GLUTES",
+                        "QUADS",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "ROLL_UP_WITH_WEIGHT_AND_BAND": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES",
+                        "SHOULDERS",
+                        "TRICEPS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK"
+                    ]
+                },
+                "SAW": {
+                    "primaryMuscles": [
+                        "OBLIQUES",
+                        "HAMSTRINGS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "HIPS",
+                        "ABS"
+                    ]
+                },
+                "SCAPULAR_STABILIZATION": {
+                    "primaryMuscles": [
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "SCISSORS_ON_DISC": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "HIPS",
+                        "HAMSTRINGS"
+                    ]
+                },
+                "SEATED_HIP_STRETCHUP": {
+                    "primaryMuscles": [
+                        "ADDUCTORS",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "SEATED_TWIST": {
+                    "primaryMuscles": [
+                        "ADDUCTORS",
+                        "HIPS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "SHOULDERS",
+                        "CHEST"
+                    ]
+                },
+                "SHAVING_THE_HEAD_WITH_BALL_BAND_AND_WEIGHT": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "TRAPS",
+                        "BICEPS",
+                        "TRICEPS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS"
+                    ]
+                },
+                "SPINAL_TWIST": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "OBLIQUES",
+                        "CHEST",
+                        "SHOULDERS",
+                        "ADDUCTORS",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "SPINAL_TWIST_STRETCH": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "OBLIQUES",
+                        "CHEST",
+                        "SHOULDERS",
+                        "ADDUCTORS",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "SPINE_STRETCH_FORWARD": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "OBLIQUES",
+                        "CHEST",
+                        "SHOULDERS",
+                        "ADDUCTORS",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "SQUATS_WITH_BALL": {
+                    "primaryMuscles": [
+                        "QUADS",
+                        "GLUTES"
+                    ],
+                    "secondaryMuscles": [
+                        "HAMSTRINGS"
+                    ]
+                },
+                "STAND_AND_HANG": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "HAMSTRINGS",
+                        "QUADS",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS"
+                    ]
+                },
+                "STANDING_SIDE_STRETCH": {
+                    "primaryMuscles": [
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "STANDING_SINGLE_LEG_FORWARD_BEND_WITH_IT_BAND_OPENER": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "HAMSTRINGS",
+                        "LOWER_BACK",
+                        "QUADS",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "SHOULDERS"
+                    ]
+                },
+                "STRAIGHT_LEG_CRUNCH_WITH_LEG_LIFT": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK"
+                    ]
+                },
+                "STRAIGHT_LEG_CRUNCH_WITH_LEG_LIFT_WITH_BALL": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK"
+                    ]
+                },
+                "STRAIGHT_LEG_CRUNCH_WITH_LEGS_CROSSED": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK"
+                    ]
+                },
+                "STRAIGHT_LEG_CRUNCH_WITH_LEGS_CROSSED_WITH_BALL": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK"
+                    ]
+                },
+                "STRAIGHT_LEG_DIAGONAL_CRUNCH": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK"
+                    ]
+                },
+                "STRAIGHT_LEG_DIAGONAL_CRUNCH_WITH_BALL": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK"
+                    ]
+                },
+                "TAILBONE_CURL": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "OBLIQUES"
+                    ]
+                },
+                "THROAT_LOCK": {},
+                "TICK_TOCK_SIDE_ROLL": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "HIPS"
+                    ]
+                },
+                "TWIST": {
+                    "primaryMuscles": [
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "V_LEG_CRUNCHES": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "OBLIQUES"
+                    ]
+                },
+                "V_SIT": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "OBLIQUES"
+                    ]
+                }
+            }
+        },
+        "PLANK": {
+            "exercises": {
+                "BRIDGE_ONE_LEG_BRIDGE": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "HIPS",
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "HAMSTRINGS"
+                    ]
+                },
+                "BRIDGE_WITH_GLUTE_LOWER_LIFT": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "HIPS",
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "HAMSTRINGS",
+                        "QUADS"
+                    ]
+                },
+                "PLANK": {
+                    "primaryMuscles": [
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "SHOULDERS"
+                    ]
+                },
+                "PLANK_WITH_ARM_VARIATIONS": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "LOWER_BACK",
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "GLUTES",
+                        "HAMSTRINGS",
+                        "QUADS"
+                    ]
+                },
+                "PLANK_WITH_LEG_LIFT": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "HAMSTRINGS",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "SHOULDERS",
+                        "ABS"
+                    ]
+                },
+                "REVERSE_PLANK_WITH_LEG_PULL": {
+                    "primaryMuscles": [
+                        "ABS",
+                        "OBLIQUES",
+                        "GLUTES",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "SHOULDERS",
+                        "TRICEPS",
+                        "HAMSTRINGS",
+                        "QUADS"
+                    ]
+                },
+                "SIDE_PLANK": {
+                    "primaryMuscles": [
+                        "OBLIQUES",
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "SHOULDERS",
+                        "HIPS",
+                        "GLUTES"
+                    ]
+                }
+            }
+        },
+        "POSE": {
+            "exercises": {
+                "ALL_FOURS": {},
+                "ANKLE_TO_KNEE": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "HIPS"
+                    ]
+                },
+                "BABY_COBRA": {
+                    "primaryMuscles": [
+                        "LOWER_BACK",
+                        "GLUTES",
+                        "ABS"
+                    ],
+                    "secondaryMuscles": [
+                        "BICEPS",
+                        "TRICEPS",
+                        "SHOULDERS",
+                        "CHEST"
+                    ]
+                },
+                "BOAT": {
+                    "primaryMuscles": [
+                        "HIPS",
+                        "ABS",
+                        "ADDUCTORS",
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "BOUND_ANGLE": {
+                    "primaryMuscles": [
+                        "LOWER_BACK",
+                        "HAMSTRINGS",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "QUADS",
+                        "ABDUCTORS"
+                    ]
+                },
+                "BOUND_SEATED_SINGLE_LEG_FORWARD_BEND": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "ABS",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "GLUTES",
+                        "LOWER_BACK",
+                        "HAMSTRINGS"
+                    ]
+                },
+                "BOW": {
+                    "primaryMuscles": [
+                        "CHEST",
+                        "SHOULDERS",
+                        "HIPS",
+                        "QUADS",
+                        "GLUTES",
+                        "LOWER_BACK",
+                        "LATS",
+                        "TRAPS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "BOWED_HALF_MOON": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "HAMSTRINGS",
+                        "HIPS",
+                        "QUADS",
+                        "ABS",
+                        "ABDUCTORS",
+                        "ADDDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "CHEST",
+                        "SHOULDERS",
+                        "CALVES"
+                    ]
+                },
+                "BRIDGE": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "LOWER_BACK",
+                        "GLUTES",
+                        "HIPS",
+                        "QUADS",
+                        "TRICEPS"
+                    ],
+                    "secondaryMuscles": [
+                        "BICEPS",
+                        "CHEST",
+                        "TRAPS",
+                        "CALVES",
+                        "HAMSTRINGS"
+                    ]
+                },
+                "CAT": {
+                    "primaryMuscles": [
+                        "HIPS",
+                        "ABS",
+                        "CHEST",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "SHOULDERS"
+                    ]
+                },
+                "CHAIR": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "LOWER_BACK",
+                        "ABS",
+                        "GLUTES",
+                        "HIPS",
+                        "QUADS",
+                        "HAMSTRINGS"
+                    ],
+                    "secondaryMuscles": [
+                        "ADDUCTORS",
+                        "CALVES"
+                    ]
+                },
+                "CHILDS": {
+                    "primaryMuscles": [
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "HIPS"
+                    ]
+                },
+                "CORPSE": {},
+                "COW": {
+                    "primaryMuscles": [
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "SHOULDERS",
+                        "HIPS"
+                    ]
+                },
+                "COW_FACE": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "BICEPS",
+                        "TRICEPS",
+                        "HAMSTRINGS",
+                        "HIPS",
+                        "CHEST"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "GLUTES"
+                    ]
+                },
+                "DEVOTIONAL_WARRIOR": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "BICEPS",
+                        "TRICEPS",
+                        "ABS",
+                        "HAMSTRINGS",
+                        "HIPS",
+                        "QUADS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "ABDUCTORS",
+                        "ADDUCTORS"
+                    ]
+                },
+                "DOLPHIN": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "CHEST",
+                        "TRICEPS",
+                        "ABS",
+                        "LOWER_BACK",
+                        "CALVES"
+                    ],
+                    "secondaryMuscles": [
+                        "GLUTES",
+                        "QUADS",
+                        "HAMSTRINGS"
+                    ]
+                },
+                "DOLPHIN_PLANK": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "ABS",
+                        "CHEST",
+                        "OBLIQUES",
+                        "TRICEPS",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "GLUTES",
+                        "QUADS",
+                        "HAMSTRINGS"
+                    ]
+                },
+                "DOWN_DOG_KNEE_TO_NOSE": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "ABS",
+                        "CHEST",
+                        "OBLIQUES",
+                        "TRICEPS",
+                        "HAMSTRINGS",
+                        "GLUTES"
+                    ],
+                    "secondaryMuscles": [
+                        "ABDUCTORS",
+                        "ADDUCTORS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "DOWN_DOG_SPLIT": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "ABS",
+                        "TRICEPS",
+                        "HAMSTRINGS",
+                        "GLUTES",
+                        "CALVES",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "QUADS",
+                        "ADDUCTORS",
+                        "OBLIQUES"
+                    ]
+                },
+                "DOWN_DOG_SPLIT_OPEN_HIP_BENT_KNEE": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "ABS",
+                        "TRICEPS",
+                        "HAMSTRINGS",
+                        "GLUTES",
+                        "CALVES",
+                        "LOWER_BACK",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "QUADS",
+                        "ADDUCTORS",
+                        "OBLIQUES"
+                    ]
+                },
+                "DOWNWARD_FACING_DOG": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "ABS",
+                        "TRICEPS",
+                        "HAMSTRINGS",
+                        "GLUTES",
+                        "CALVES",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "QUADS",
+                        "ADDUCTORS",
+                        "OBLIQUES"
+                    ]
+                },
+                "EAGLE": {
+                    "primaryMuscles": [
+                        "HAMSTRINGS",
+                        "QUADS",
+                        "SHOULDERS",
+                        "ADDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "TRAPS",
+                        "HIPS",
+                        "LOWER_BACK",
+                        "OBLIQUES"
+                    ]
+                },
+                "EASY_SEATED": {
+                    "primaryMuscles": [
+                        "HAMSTRINGS",
+                        "ABDUCTORS",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "HIPS"
+                    ]
+                },
+                "EXTENDED_PUPPY": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "TRAPS"
+                    ],
+                    "secondaryMuscles": [
+                        "GLUTES",
+                        "HAMSTRINGS"
+                    ]
+                },
+                "EXTENDED_SIDE_ANGLE": {
+                    "primaryMuscles": [
+                        "HAMSTRINGS",
+                        "QUADS",
+                        "HIPS",
+                        "SHOULDERS",
+                        "OBLIQUES",
+                        "ADDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "CHEST",
+                        "LOWER_BACK",
+                        "ABS",
+                        "ABDUCTORS"
+                    ]
+                },
+                "FISH": {
+                    "primaryMuscles": [
+                        "CHEST",
+                        "TRAPS",
+                        "LATS",
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK"
+                    ]
+                },
+                "FOUR_LIMBED_STAFF": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "CHEST",
+                        "TRICEPS",
+                        "ABS",
+                        "CALVES"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK"
+                    ]
+                },
+                "FULL_SPLIT": {
+                    "primaryMuscles": [
+                        "HAMSTRINGS",
+                        "HIPS",
+                        "GLUTES"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "GATE": {
+                    "primaryMuscles": [
+                        "OBLIQUES",
+                        "HAMSTRINGS",
+                        "SHOULDERS",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS"
+                    ]
+                },
+                "HALF_CHAIR_HALF_ANKLE_TO_KNEE": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "QUADS",
+                        "CHEST",
+                        "ADDUCTORS",
+                        "HAMSTRINGS",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "CALVES"
+                    ]
+                },
+                "HALF_MOON": {
+                    "primaryMuscles": [
+                        "CHEST",
+                        "SHOULDERS",
+                        "HAMSTRINGS",
+                        "OBLIQUES",
+                        "GLUTES",
+                        "HIPS",
+                        "ADDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "HEAD_TO_KNEE": {
+                    "primaryMuscles": [
+                        "HAMSTRINGS",
+                        "HIPS",
+                        "GLUTES",
+                        "QUADS",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "SHOULDERS"
+                    ]
+                },
+                "HERON": {
+                    "primaryMuscles": [
+                        "HIPS",
+                        "QUADS",
+                        "HAMSTRINGS"
+                    ],
+                    "secondaryMuscles": [
+                        "SHOULDERS",
+                        "ABS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "HEROS": {
+                    "primaryMuscles": [
+                        "QUADS",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "HIGH_LUNGE": {
+                    "primaryMuscles": [
+                        "QUADS",
+                        "GLUTES"
+                    ],
+                    "secondaryMuscles": [
+                        "HAMSTRINGS"
+                    ]
+                },
+                "KNEES_CHEST_CHIN": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "CHEST",
+                        "TRICEPS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "LIZARD": {
+                    "primaryMuscles": [
+                        "QUADS",
+                        "GLUTES",
+                        "ADDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "HAMSTRINGS"
+                    ]
+                },
+                "LOCUST": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "LOWER_BACK",
+                        "CHEST",
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS"
+                    ]
+                },
+                "LOW_LUNGE": {
+                    "primaryMuscles": [
+                        "QUADS",
+                        "GLUTES",
+                        "ADDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "HAMSTRINGS"
+                    ]
+                },
+                "LOW_LUNGE_TWIST": {
+                    "primaryMuscles": [
+                        "QUADS",
+                        "GLUTES",
+                        "ADDUCTORS",
+                        "CHEST"
+                    ],
+                    "secondaryMuscles": [
+                        "HAMSTRINGS",
+                        "ABS",
+                        "OBLIQUES"
+                    ]
+                },
+                "LOW_LUNGE_WITH_KNEE_DOWN": {
+                    "primaryMuscles": [
+                        "QUADS",
+                        "GLUTES",
+                        "ADDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "HAMSTRINGS"
+                    ]
+                },
+                "MERMAID": {
+                    "primaryMuscles": [
+                        "HIPS",
+                        "CHEST",
+                        "SHOULDERS",
+                        "ABS",
+                        "HAMSTRINGS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK"
+                    ]
+                },
+                "MOUNTAIN": {},
+                "ONE_LEGGED_DOWNWARD_FACING_POSE_OPEN_HIP_BENT_KNEE": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "ABS",
+                        "TRICEPS",
+                        "HAMSTRINGS",
+                        "GLUTES",
+                        "CALVES",
+                        "LOWER_BACK",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "QUADS",
+                        "ADDUCTORS",
+                        "OBLIQUES"
+                    ]
+                },
+                "ONE_LEGGED_PIGEON": {
+                    "primaryMuscles": [
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "GLUTES",
+                        "QUADS",
+                        "HAMSTRINGS",
+                        "SHOULDERS"
+                    ]
+                },
+                "PEACEFUL_WARRIOR": {
+                    "primaryMuscles": [
+                        "HIPS",
+                        "ABDUCTORS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "GLUTES",
+                        "QUADS",
+                        "HAMSTRINGS",
+                        "SHOULDERS",
+                        "ADDUCTORS"
+                    ]
+                },
+                "PLOW": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "RECLINED_HAND_TO_FOOT": {
+                    "primaryMuscles": [
+                        "HIPS",
+                        "HAMSTRINGS",
+                        "CALVES"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK"
+                    ]
+                },
+                "REVOLVED_HALF_MOON": {
+                    "primaryMuscles": [
+                        "HIPS",
+                        "QUADS",
+                        "OBLIQUES",
+                        "SHOULDERS",
+                        "CHEST",
+                        "HAMSTRINGS",
+                        "GLUTES",
+                        "CALVES",
+                        "ADDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "REVOLVED_HEAD_TO_KNEE": {
+                    "primaryMuscles": [
+                        "HAMSTRINGS",
+                        "SHOULDERS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK"
+                    ]
+                },
+                "REVOLVED_TRIANGLE": {
+                    "primaryMuscles": [
+                        "HAMSTRINGS",
+                        "QUADS",
+                        "SHOULDERS",
+                        "CHEST",
+                        "HIPS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "RUNNERS_LUNGE": {
+                    "primaryMuscles": [
+                        "QUADS",
+                        "HAMSTRINGS",
+                        "HIPS",
+                        "GLUTES"
+                    ],
+                    "secondaryMuscles": [
+                        "ABDUCTORS",
+                        "ADDUCTORS"
+                    ]
+                },
+                "SEATED_EASY_SIDE_BEND": {
+                    "primaryMuscles": [
+                        "HIPS",
+                        "SHOULDERS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK"
+                    ]
+                },
+                "SEATED_EASY_TWIST": {
+                    "primaryMuscles": [
+                        "HIPS",
+                        "OBLIQUES",
+                        "CHEST"
+                    ],
+                    "secondaryMuscles": [
+                        "SHOULDERS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "SEATED_LONG_LEG_FORWARD_BEND": {
+                    "primaryMuscles": [
+                        "HAMSTRINGS",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "SEATED_WIDE_LEG_FORWARD_BEND": {
+                    "primaryMuscles": [
+                        "HAMSTRINGS",
+                        "HIPS",
+                        "ABDUCTORS",
+                        "QUADS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "SHOULDERS"
+                    ]
+                },
+                "SHOULDER_STAND": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "TRICEPS",
+                        "ABS",
+                        "LATS",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "GLUTES"
+                    ]
+                },
+                "SIDE_BOAT": {
+                    "primaryMuscles": [
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "HIPS",
+                        "ADDUCTORS",
+                        "ABS"
+                    ]
+                },
+                "SPHINX": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "CHEST",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "GLUTES",
+                        "ABS"
+                    ]
+                },
+                "SQUAT_OPEN_ARM_TWIST": {
+                    "primaryMuscles": [
+                        "HIPS",
+                        "HAMSTRINGS",
+                        "ADDUCTORS",
+                        "ABDUCTORS",
+                        "QUADS",
+                        "GLUTES",
+                        "SHOULDERS",
+                        "OBLIQUES",
+                        "CHEST"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "CALVES"
+                    ]
+                },
+                "SQUAT_PALM_PRESS": {
+                    "primaryMuscles": [
+                        "HIPS",
+                        "HAMSTRINGS",
+                        "ADDUCTORS",
+                        "QUADS",
+                        "GLUTES",
+                        "ABDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "LOWER_BACK",
+                        "CALVES"
+                    ]
+                },
+                "STAFF": {
+                    "primaryMuscles": [
+                        "HAMSTRINGS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "STANDING_ARMS_UP": {
+                    "primaryMuscles": [
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "STANDING_FORWARD_BEND": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "HAMSTRINGS",
+                        "QUADS",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS"
+                    ]
+                },
+                "STANDING_FORWARD_BEND_HALFWAY_UP": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "HAMSTRINGS",
+                        "QUADS",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS"
+                    ]
+                },
+                "STANDING_SIDE_OPENER": {
+                    "primaryMuscles": [
+                        "OBLIQUES",
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS"
+                    ]
+                },
+                "STANDING_SINGLE_LEG_FORWARD_BEND": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "HAMSTRINGS",
+                        "LOWER_BACK",
+                        "QUADS",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "SHOULDERS"
+                    ]
+                },
+                "STANDING_SPLIT": {
+                    "primaryMuscles": [
+                        "HAMSTRINGS",
+                        "GLUTES",
+                        "HIPS",
+                        "ABDUCTORS",
+                        "OBLIQUES",
+                        "SHOULDERS",
+                        "ADDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "QUADS"
+                    ]
+                },
+                "STANDING_WIDE_LEG_FORWARD_BEND": {
+                    "primaryMuscles": [
+                        "HAMSTRINGS",
+                        "HIPS",
+                        "ABDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "QUADS",
+                        "ABS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "STANDING_WIDE_LEG_FORWARD_BEND_WITH_TWIST": {
+                    "primaryMuscles": [
+                        "CHEST",
+                        "HAMSTRINGS",
+                        "HIPS",
+                        "ABDUCTORS",
+                        "OBLIQUES",
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "QUADS",
+                        "ABS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "SUPINE_SPINAL_TWIST": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "OBLIQUES",
+                        "CHEST",
+                        "SHOULDERS",
+                        "ADDUCTORS",
+                        "HIPS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "TABLE_TOP": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "CHEST",
+                        "TRICEPS",
+                        "GLUTES",
+                        "QUADS",
+                        "HAMSTRINGS"
+                    ],
+                    "secondaryMuscles": []
+                },
+                "THREAD_THE_NEEDLE": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "TRAPS"
+                    ],
+                    "secondaryMuscles": [
+                        "OBLIQUES",
+                        "LOWER_BACK",
+                        "HAMSTRINGS",
+                        "QUADS",
+                        "GLUTES"
+                    ]
+                },
+                "THUNDERBOLT": {
+                    "primaryMuscles": [
+                        "QUADS"
+                    ],
+                    "secondaryMuscles": [
+                        "HIPS"
+                    ]
+                },
+                "THUNDERBOLT_POSE_BOTH_SIDES_ARM_STRETCH": {
+                    "primaryMuscles": [
+                        "QUADS",
+                        "SHOULDERS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "HIPS"
+                    ]
+                },
+                "TREE": {
+                    "primaryMuscles": [
+                        "QUADS",
+                        "HIPS",
+                        "ADDUCTORS",
+                        "HAMSTRINGS",
+                        "CALVES"
+                    ],
+                    "secondaryMuscles": [
+                        "GLUTES",
+                        "ABS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "TRIANGLE": {
+                    "primaryMuscles": [
+                        "QUADS",
+                        "GLUTES",
+                        "SHOULDERS",
+                        "OBLIQUES"
+                    ],
+                    "secondaryMuscles": [
+                        "HAMSTRINGS",
+                        "ABS",
+                        "LOWER_BACK",
+                        "ADDUCTORS",
+                        "ABDUCTORS"
+                    ]
+                },
+                "UP_DOG": {
+                    "primaryMuscles": [
+                        "CHEST",
+                        "TRICEPS",
+                        "LOWER_BACK",
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "GLUTES",
+                        "HAMSTRINGS"
+                    ]
+                },
+                "UPWARD_FACING_PLANK": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "TRICEPS",
+                        "GLUTES",
+                        "ABS",
+                        "LOWER_BACK"
+                    ],
+                    "secondaryMuscles": [
+                        "CHEST",
+                        "QUADS",
+                        "HAMSTRINGS"
+                    ]
+                },
+                "WARRIOR_ONE": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "HAMSTRINGS",
+                        "HIPS",
+                        "ADDUCTORS",
+                        "QUADS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS"
+                    ]
+                },
+                "WARRIOR_TWO": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "HAMSTRINGS",
+                        "HIPS",
+                        "ADDUCTORS",
+                        "QUADS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS"
+                    ]
+                },
+                "WARRIOR_THREE": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "HAMSTRINGS",
+                        "GLUTES",
+                        "HIPS",
+                        "QUADS",
+                        "ADDUCTORS",
+                        "CALVES"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "ABDUCTORS",
+                        "LOWER_BACK"
+                    ]
+                },
+                "WHEEL": {
+                    "primaryMuscles": [
+                        "SHOULDERS",
+                        "LOWER_BACK",
+                        "GLUTES",
+                        "HIPS",
+                        "QUADS",
+                        "TRICEPS"
+                    ],
+                    "secondaryMuscles": [
+                        "BICEPS",
+                        "CHEST",
+                        "TRAPS",
+                        "CALVES",
+                        "HAMSTRINGS"
+                    ]
+                },
+                "WIDE_SIDE_LUNGE": {
+                    "primaryMuscles": [
+                        "QUADS",
+                        "GLUTES",
+                        "ABDUCTORS"
+                    ],
+                    "secondaryMuscles": [
+                        "ADDUCTORS"
+                    ]
+                }
+            }
+        },
+        "PUSH_UP": {
+            "exercises": {
+                "PILATES_PUSHUP": {
+                    "primaryMuscles": [
+                        "CHEST",
+                        "TRICEPS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "SHOULDERS"
+                    ]
+                }
+            }
+        },
+        "SQUAT": {
+            "exercises": {
+                "PILATES_PLIE_SQUATS_PARALLEL_TURNED_OUT_FLAT_AND_HEELS": {
+                    "primaryMuscles": [
+                        "GLUTES",
+                        "HIPS",
+                        "QUADS",
+                        "HAMSTRINGS"
+                    ],
+                    "secondaryMuscles": [
+                        "CALVES",
+                        "ABDUCTORS",
+                        "ADDUCTORS"
+                    ]
+                },
+                "RELEVE_STRAIGHT_LEG_AND_KNEE_BENT_WITH_ONE_LEG_VARIATION": {
+                    "primaryMuscles": [
+                        "CALVES",
+                        "SHOULDERS"
+                    ],
+                    "secondaryMuscles": []
+                }
+            }
+        },
+        "TRICEPS_EXTENSION": {
+            "exercises": {
+                "TRICEPS_PRESS": {
+                    "primaryMuscles": [
+                        "TRICEPS"
+                    ],
+                    "secondaryMuscles": [
+                        "ABS",
+                        "GLUTES"
+                    ]
+                }
+            }
+        }
+    }
+}

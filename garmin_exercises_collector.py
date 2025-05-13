@@ -569,17 +569,8 @@ class GarminExercisesCollector:
             with open('spreadsheet_id.txt', 'w') as f:
                 f.write(spreadsheet_id)
         else:
-            # If spreadsheet already exists, make sure you have edit access
-            try:
-                drive_service.permissions().create(
-                    fileId=spreadsheet_id,
-                    body={'type': 'user', 'role': 'writer', 'emailAddress': 'hysterresis@gmail.com'},
-                    fields='id',
-                    sendNotificationEmail=False
-                ).execute()
-            except HttpError as e:
-                # Ignore error if permission already exists
-                print(f"Note: {str(e)}")
+            # If spreadsheet already exists, clean it by deleting and recreating sheets
+            self.clean_spreadsheet(sheets_service, spreadsheet_id)
         
         # Update each sheet
         self.update_sheet(sheets_service, spreadsheet_id, 'Exercises', self.df_exercises)
@@ -593,37 +584,7 @@ class GarminExercisesCollector:
         
         requests = []
         
-        # First, check for and unmerge any existing merged cells in the header row
-        for sheet in sheets:
-            sheet_id = sheet['properties']['sheetId']
-            
-            # Check if there are any merged cells
-            if 'merges' in sheet:
-                for merge in sheet['merges']:
-                    # Check if it's a merge in the header row
-                    if merge['startRowIndex'] == 0 and merge['endRowIndex'] == 1:
-                        # Add request to unmerge these cells
-                        requests.append({
-                            'unmergeCells': {
-                                'range': {
-                                    'sheetId': sheet_id,
-                                    'startRowIndex': merge['startRowIndex'],
-                                    'endRowIndex': merge['endRowIndex'],
-                                    'startColumnIndex': merge['startColumnIndex'],
-                                    'endColumnIndex': merge['endColumnIndex']
-                                }
-                            }
-                        })
-        
-        # Execute unmerge requests first if any exist
-        if any('unmergeCells' in req for req in requests):
-            sheets_service.spreadsheets().batchUpdate(
-                spreadsheetId=spreadsheet_id, 
-                body={'requests': requests}
-            ).execute()
-            # Reset requests after executing unmerge operations
-            requests = []
-        
+      
         # Define colors for each category
         category_colors = {
             'NAME': {'red': 0.8, 'green': 0.9, 'blue': 0.97},  # Light blue
@@ -854,38 +815,6 @@ class GarminExercisesCollector:
         spreadsheet_metadata = sheets_service.spreadsheets().get(spreadsheetId=spreadsheet_id).execute()
         sheets = spreadsheet_metadata['sheets']
         
-        # Check for existing filter views and collect their IDs
-        existing_filter_views = {}
-        if 'filterViews' in spreadsheet_metadata:
-            for filter_view in spreadsheet_metadata['filterViews']:
-                existing_filter_views[filter_view['title']] = filter_view['filterViewId']
-        
-        filter_requests = []
-        
-        # Delete any existing filter views first to avoid conflicts
-        for sheet in sheets:
-            sheet_id = sheet['properties']['sheetId']
-            sheet_title = sheet['properties']['title']
-            filter_title = f"{sheet_title} Filter"
-            
-            if 'filterViews' in sheet:
-                for filter_view in sheet['filterViews']:
-                    filter_requests.append({
-                        'deleteFilterView': {
-                            'filterId': filter_view['filterViewId']
-                        }
-                    })
-        
-        # Execute deletion requests if any
-        if filter_requests:
-            try:
-                sheets_service.spreadsheets().batchUpdate(
-                    spreadsheetId=spreadsheet_id,
-                    body={'requests': filter_requests}
-                ).execute()
-            except HttpError as e:
-                print(f"Note when deleting filter views: {str(e)}")
-        
         # Now create new filter views
         filter_requests = []
         for sheet in sheets:
@@ -975,6 +904,72 @@ class GarminExercisesCollector:
             print("No spreadsheet found to delete.")
             return False
 
+    def clean_spreadsheet(self, sheets_service, spreadsheet_id):
+        """Clean spreadsheet by deleting all sheets and creating new ones"""
+        # Get current sheets
+        spreadsheet_metadata = sheets_service.spreadsheets().get(spreadsheetId=spreadsheet_id).execute()
+        sheets = spreadsheet_metadata['sheets']
+        
+        requests = []
+        
+        # 1. Create a temporary sheet (we need at least one sheet at all times)
+        requests.append({
+            'addSheet': {
+                'properties': {
+                    'title': 'TempSheet'
+                }
+            }
+        })
+        
+        # 2. Delete all existing sheets
+        for sheet in sheets:
+            sheet_id = sheet['properties']['sheetId']
+            sheet_title = sheet['properties']['title']
+            
+            requests.append({
+                'deleteSheet': {
+                    'sheetId': sheet_id
+                }
+            })
+        
+        # 3. Create new sheets with desired titles
+        sheet_titles = ['Exercises', 'Yoga', 'Pilates', 'Mobility']
+        for title in sheet_titles:
+            requests.append({
+                'addSheet': {
+                    'properties': {
+                        'title': title
+                    }
+                }
+            })
+        
+        # 4. Delete the temporary sheet (no longer needed)
+        # We'll do this in a second batch update after the first one succeeds
+        
+        # Execute the first batch of requests
+        sheets_service.spreadsheets().batchUpdate(
+            spreadsheetId=spreadsheet_id,
+            body={'requests': requests}
+        ).execute()
+        
+        # Now find and delete the temporary sheet
+        spreadsheet_metadata = sheets_service.spreadsheets().get(spreadsheetId=spreadsheet_id).execute()
+        for sheet in spreadsheet_metadata['sheets']:
+            if sheet['properties']['title'] == 'TempSheet':
+                sheets_service.spreadsheets().batchUpdate(
+                    spreadsheetId=spreadsheet_id,
+                    body={
+                        'requests': [{
+                            'deleteSheet': {
+                                'sheetId': sheet['properties']['sheetId']
+                            }
+                        }]
+                    }
+                ).execute()
+                break
+        
+        print("Spreadsheet cleaned by recreating all sheets")
+    
     def compare_data(self, current_data, new_data):
         """Compare current sheet data with new data"""
         if len(current_data) != len(new_data):

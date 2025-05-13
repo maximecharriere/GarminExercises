@@ -1,0 +1,39 @@
+name: Update Garmin Exercises Database
+
+on:
+  schedule:
+    # Run on the first day of each month at 00:00 UTC
+    - cron: '0 0 1 * *'
+  workflow_dispatch:  # Allow manual triggers
+
+jobs:
+  update-database:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: Set up Google credentials
+        run: |
+          echo '${{ secrets.GOOGLE_SERVICE_ACCOUNT }}' > credentials.json
+          
+      - name: Run update script
+        run: python garmin_exercises_collector.py
+        
+      - name: Commit and push if spreadsheet ID changed
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add spreadsheet_id.txt
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update spreadsheet ID"
+          git push

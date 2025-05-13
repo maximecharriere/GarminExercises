@@ -1,0 +1,60 @@
+{
+    "bodyParts": "Pecs, Delts, Triceps",
+    "description": "The push-up is basic upper body strength-building exercise with an emphasis on the chest. The exercise also strengthens the shoulders and triceps.",
+    "difficulty": "Beginner",
+    "equipment": "",
+    "exerciseCategory": "PUSH_UP",
+    "exerciseName": "PUSH_UP",
+    "exerciseSteps": [
+        {
+            "instructions": "Begin on all fours placing your hands on the floor slightly wider than shoulder-width apart. Your body should form a straight line from your ankles to your shoulders. Squeeze your abs as tight as possible and keep them contracted for the entire exercise."
+        },
+        {
+            "instructions": "Lower your body until your chest nearly touches the floor, making sure that you tuck your elbows close to the sides of your torso. Pause, then push yourself back to the starting position."
+        }
+    ],
+    "focuses": "",
+    "locale": "en-US",
+    "sportType": {
+        "sportTypeId": 5,
+        "sportTypeKey": "strength_training",
+        "displayOrder": 4
+    },
+    "tips": [
+        "Keep your back flat throughout the movement.",
+        "Maintain a tight core for the duration of the movement.",
+        "Fully extend the elbows at the top of the push-up."
+    ],
+    "videos": [
+        {
+            "thumbnail": "/msn-workout/Strength/S_026-A2.jpg",
+            "video": "/msn-workout/Strength/S_026-A2.mp4"
+        },
+        {
+            "thumbnail": "/msn-workout/Strength/S_026-B2.jpg",
+            "video": "/msn-workout/Strength/S_026-B2.mp4"
+        },
+        {
+            "thumbnail": "/msn-workout/Strength/S_026-C2.jpg",
+            "video": "/msn-workout/Strength/S_026-C2.mp4"
+        },
+        {
+            "thumbnail": "/msn-workout/Strength/S_026-D2.jpg",
+            "video": "/msn-workout/Strength/S_026-D2.mp4"
+        },
+        {
+            "thumbnail": "/msn-workout/Strength/S_026-E2.jpg",
+            "video": "/msn-workout/Strength/S_026-E2.mp4"
+        }
+    ],
+    "exerciseSourceId": "Ex419",
+    "heroImage": "/images/exercises/images/PUSH_UP/heroImage_BBtO7xT.jpg",
+    "primaryMuscles": [
+        "CHEST"
+    ],
+    "secondaryMuscles": [
+        "ABS",
+        "SHOULDERS",
+        "TRICEPS"
+    ]
+}
