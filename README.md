@@ -1,5 +1,7 @@
 # GarminExercisesCollector
 
+![speadsheet_screenshot](https://github.com/user-attachments/assets/becb2176-e9aa-4cd7-a237-674a8ab9eaa7)
+
 > Link to Google Speadsheet : [Garmin Exercises Database](https://docs.google.com/spreadsheets/d/1OaqIaBhPk4xBnkqVPYvFpj2HZNk_ISX0zHgWfA0WXkQ/edit)
 
 A Python project that collects and organizes exercise data from Garmin Connect into a Google Sheets database. This project automatically extracts exercise information, muscle groups, equipment requirements, and other detailed information from Garmin's exercise library.
