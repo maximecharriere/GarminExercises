@@ -1,4 +1,4 @@
-# GarminExercises
+# GarminExercisesCollector
 
 > Link to Google Sheets : [Garmin Exercises Database](https://docs.google.com/spreadsheets/d/1OaqIaBhPk4xBnkqVPYvFpj2HZNk_ISX0zHgWfA0WXkQ/edit)
 
